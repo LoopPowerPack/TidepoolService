@@ -1341,8 +1341,8 @@
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/tidepool-org/TidepoolKit";
 			requirement = {
-				branch = dev;
-				kind = branch;
+				kind = revision;
+				revision = 54045c2e7d720dcd8a0909037772dcd6f54f0158;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
